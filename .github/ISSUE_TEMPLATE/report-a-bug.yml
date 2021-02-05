@@ -74,7 +74,9 @@ inputs:
     required: true
     placeholder: |
       Example: "Everything doesn't explode :("
+
 - type: description
   attributes:
     value: |
       In the text box below, you can attach any relevant screenshots, files and links to Timings/spark profiler reports. You can also include a link to a heapdump if necessary, but please make sure you don't include any private player data in the heapdump.
+
